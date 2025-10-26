@@ -28,16 +28,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
 
-## 📊 Example Output
-```
-[train] Loss: 0.3271 | F1_macro: 0.8423
-[val]   Loss: 0.3559 | F1_macro: 0.8105
-F1_macro: 0.8105, mAP: 0.7932
-```
-
----
-
-## 📜 License
-MIT License
